@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GOL.GOLBoardSimulationController">
+    <VBox>
+      <children>
+         <GridPane fx:id="gridBoard" alignment="CENTER" hgap="1" onMouseClicked="#fillCells" vgap="1">
+           <columnConstraints>
+             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+           </columnConstraints>
+           <rowConstraints>
+             <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+             <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+             <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+           </rowConstraints>
+            <VBox.margin>
+               <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+            </VBox.margin>
+         </GridPane>
+          <HBox alignment="CENTER" spacing="10">
+              <Button onAction="#saveBoard" text="%simulation.save" />
+              <Button onAction="#loadBoard" text="%simulation.load" />
+          </HBox>
+          <HBox alignment="CENTER">
+              <Button onAction="#doStep" text="%simulation.doStep" />
+          </HBox>
+          <HBox alignment="CENTER">
+              <TextField fx:id="boardNameField" promptText="%board.text" />
+          </HBox>
+          <HBox alignment="CENTER">
+              <Button onAction="#saveDb" text="%board.to.database" />
+          </HBox>
+          <HBox alignment="CENTER">
+              <ComboBox fx:id="boardNameComboBox" onAction="#loadDb" promptText="%board.select.name" />
+          </HBox>
+      </children>
+    </VBox>
+
+</AnchorPane>

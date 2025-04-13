@@ -1,0 +1,982 @@
+2025-01-15 17:02:41 INFO  - Menu zostało załadowane.
+2025-01-15 17:02:41 INFO  - Menu zostało załadowane.
+2025-01-15 17:02:48 INFO  - Symulacja została załadowana.
+2025-01-15 17:03:08 INFO  - Menu zostało załadowane.
+2025-01-15 17:03:14 INFO  - Language changed.
+2025-01-15 17:03:15 INFO  - The simulation was loaded.
+2025-01-15 17:13:42 INFO  - Menu zostało załadowane.
+2025-01-15 17:13:46 INFO  - Language changed.
+2025-01-15 17:13:47 INFO  - The simulation was loaded.
+2025-01-15 17:26:15 INFO  - Menu zostało załadowane.
+2025-01-15 17:26:17 INFO  - Symulacja została załadowana.
+2025-01-15 17:26:22 INFO  - Tablica została wczytana z pliku.
+2025-01-15 17:43:58 INFO  - Menu zostało załadowane.
+2025-01-15 17:44:21 INFO  - Symulacja została załadowana.
+2025-01-15 18:10:22 INFO  - Menu zostało załadowane.
+2025-01-15 18:10:24 INFO  - Symulacja została załadowana.
+2025-01-15 18:29:54 INFO  - Menu zostało załadowane.
+2025-01-15 18:29:57 INFO  - Symulacja została załadowana.
+2025-01-15 18:30:16 INFO  - Tablica została wczytana z pliku.
+2025-01-15 18:30:21 INFO  - Tablica została zapisana do pliku.
+2025-01-15 18:31:52 INFO  - Menu zostało załadowane.
+2025-01-15 18:32:31 INFO  - Language changed.
+2025-01-15 18:32:37 INFO  - The simulation was loaded.
+2025-01-15 18:34:23 INFO  - Menu zostało załadowane.
+2025-01-15 18:34:24 INFO  - Symulacja została załadowana.
+2025-01-15 18:35:07 INFO  - Menu zostało załadowane.
+2025-01-15 18:35:38 INFO  - Symulacja została załadowana.
+2025-01-15 18:37:06 INFO  - Menu zostało załadowane.
+2025-01-15 18:37:07 INFO  - Symulacja została załadowana.
+2025-01-15 18:40:44 INFO  - Menu zostało załadowane.
+2025-01-15 18:40:59 INFO  - Language changed.
+2025-01-15 18:41:03 INFO  - The simulation was loaded.
+2025-01-18 22:49:30 INFO  - Menu zostało załadowane.
+2025-01-21 16:49:59 INFO  - Menu zostało załadowane.
+2025-01-21 16:50:02 INFO  - Symulacja została załadowana.
+2025-01-21 16:50:27 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 16:52:29 INFO  - Menu zostało załadowane.
+2025-01-21 16:52:31 INFO  - Symulacja została załadowana.
+2025-01-21 16:52:49 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 16:55:56 INFO  - Menu zostało załadowane.
+2025-01-21 16:56:11 INFO  - Symulacja została załadowana.
+2025-01-21 16:56:55 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 16:56:55 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 16:56:56 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:00:20 INFO  - Menu zostało załadowane.
+2025-01-21 17:00:27 INFO  - Symulacja została załadowana.
+2025-01-21 17:00:30 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:13:07 INFO  - Menu zostało załadowane.
+2025-01-21 17:13:09 INFO  - Symulacja została załadowana.
+2025-01-21 17:13:10 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:13:46 INFO  - Menu zostało załadowane.
+2025-01-21 17:13:59 INFO  - Symulacja została załadowana.
+2025-01-21 17:14:01 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:22:23 INFO  - Menu zostało załadowane.
+2025-01-21 17:28:16 INFO  - Menu zostało załadowane.
+2025-01-21 17:28:31 INFO  - Menu zostało załadowane.
+2025-01-21 17:28:33 INFO  - Symulacja została załadowana.
+2025-01-21 17:28:35 ERROR - Failed to save board to database: org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:37:13 INFO  - Menu zostało załadowane.
+2025-01-21 17:37:19 INFO  - Symulacja została załadowana.
+2025-01-21 17:37:20 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:39:05 INFO  - Menu zostało załadowane.
+2025-01-21 17:39:08 INFO  - Symulacja została załadowana.
+2025-01-21 17:39:12 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:50:27 INFO  - Menu zostało załadowane.
+2025-01-21 17:50:33 INFO  - Symulacja została załadowana.
+2025-01-21 17:50:36 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:53:40 INFO  - Menu zostało załadowane.
+2025-01-21 17:53:43 INFO  - Symulacja została załadowana.
+2025-01-21 17:53:45 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 17:58:24 INFO  - Menu zostało załadowane.
+2025-01-21 17:58:29 INFO  - Symulacja została załadowana.
+2025-01-21 17:58:30 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: syntax error at or near "boardId"
+  Pozycja: 33
+2025-01-21 18:00:55 INFO  - Menu zostało załadowane.
+2025-01-21 18:00:59 INFO  - Symulacja została załadowana.
+2025-01-21 18:01:01 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: there is no unique constraint matching given keys for referenced table "board"
+2025-01-21 18:09:58 INFO  - Menu zostało załadowane.
+2025-01-21 18:10:05 INFO  - Symulacja została załadowana.
+2025-01-21 18:10:07 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: syntax error at or near ")"
+  Pozycja: 223
+2025-01-21 18:14:13 INFO  - Menu zostało załadowane.
+2025-01-21 18:14:24 INFO  - Symulacja została załadowana.
+2025-01-21 18:14:26 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: column "boardname" named in key does not exist
+  Pozycja: 129
+2025-01-21 18:17:20 INFO  - Menu zostało załadowane.
+2025-01-21 18:17:25 INFO  - Symulacja została załadowana.
+2025-01-21 18:28:10 INFO  - Menu zostało załadowane.
+2025-01-21 18:28:14 INFO  - Symulacja została załadowana.
+2025-01-21 18:28:16 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: null value in column "boardname" of relation "board" violates not-null constraint
+  Szczegóły: Failing row contains (1, null, 8, 22).
+2025-01-21 18:31:33 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: null value in column "boardname" of relation "board" violates not-null constraint
+  Szczegóły: Failing row contains (2, null, 8, 22).
+2025-01-21 18:39:01 INFO  - Menu zostało załadowane.
+2025-01-21 18:39:06 INFO  - Symulacja została załadowana.
+2025-01-21 18:39:08 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: null value in column "boardname" of relation "board" violates not-null constraint
+  Szczegóły: Failing row contains (3, null, 8, 25).
+2025-01-21 18:41:14 INFO  - Menu zostało załadowane.
+2025-01-21 18:41:22 INFO  - Symulacja została załadowana.
+2025-01-21 18:41:24 INFO  - Board saved successfully to the database.
+2025-01-21 18:43:18 ERROR - blad3 org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "cell_pkey"
+  Szczegóły: Key (boardid, rowid, columnid)=(4, 0, 0) already exists.
+2025-01-21 23:41:06 INFO  - Menu zostało załadowane.
+2025-01-21 23:41:14 ERROR - Failed to load board names: null
+2025-01-21 23:41:14 INFO  - Symulacja została załadowana.
+2025-01-21 23:42:41 ERROR - Error saving board to database: komponentowe.modelexceptions.IncorrectClassException
+2025-01-21 23:42:54 ERROR - Error saving board to database: komponentowe.modelexceptions.IncorrectClassException
+2025-01-21 23:47:04 INFO  - Menu zostało załadowane.
+2025-01-21 23:47:09 INFO  - Symulacja została załadowana.
+2025-01-21 23:49:50 INFO  - Board 'opos' saved successfully to the database.
+2025-01-21 23:52:04 ERROR - Error loading board from database: Index -1 out of bounds for length 8
+2025-01-21 23:54:02 INFO  - Menu zostało załadowane.
+2025-01-21 23:54:03 INFO  - Symulacja została załadowana.
+2025-01-21 23:54:10 ERROR - Error loading board from database: Index -1 out of bounds for length 8
+2025-01-21 23:56:21 INFO  - Menu zostało załadowane.
+2025-01-21 23:56:26 INFO  - Symulacja została załadowana.
+2025-01-21 23:56:32 ERROR - Error loading board from database: Index -1 out of bounds for length 8
+2025-01-21 23:56:42 ERROR - Error loading board from database: Index -1 out of bounds for length 8
+2025-01-21 23:56:47 ERROR - Error loading board from database: Index -1 out of bounds for length 8
+2025-01-22 18:50:44 INFO  - Menu zostało załadowane.
+2025-01-22 18:50:47 ERROR - Błąd załadowania sceny.
+2025-01-22 18:50:49 ERROR - Błąd załadowania sceny.
+2025-01-22 18:50:49 ERROR - Błąd załadowania sceny.
+2025-01-22 18:50:50 ERROR - Błąd załadowania sceny.
+2025-01-22 18:53:31 INFO  - Menu zostało załadowane.
+2025-01-22 18:53:33 ERROR - Błąd załadowania sceny.
+2025-01-22 19:05:05 INFO  - Menu zostało załadowane.
+2025-01-22 19:05:07 INFO  - Symulacja została załadowana.
+2025-01-22 19:43:29 INFO  - Menu zostało załadowane.
+2025-01-22 19:43:32 INFO  - Symulacja została załadowana.
+2025-01-22 19:44:19 INFO  - Menu zostało załadowane.
+2025-01-22 19:44:21 INFO  - Symulacja została załadowana.
+2025-01-22 19:46:53 INFO  - Menu zostało załadowane.
+2025-01-22 19:46:55 INFO  - Symulacja została załadowana.
+2025-01-22 19:47:59 INFO  - Menu zostało załadowane.
+2025-01-22 19:48:02 INFO  - Symulacja została załadowana.
+2025-01-22 19:49:29 INFO  - Menu zostało załadowane.
+2025-01-22 19:49:31 INFO  - Symulacja została załadowana.
+2025-01-22 19:50:25 INFO  - Menu zostało załadowane.
+2025-01-22 19:50:28 INFO  - Symulacja została załadowana.
+2025-01-22 19:54:14 INFO  - Menu zostało załadowane.
+2025-01-22 19:54:19 INFO  - Symulacja została załadowana.
+2025-01-22 19:55:01 INFO  - Menu zostało załadowane.
+2025-01-22 19:55:03 INFO  - Symulacja została załadowana.
+2025-01-22 19:55:29 INFO  - Menu zostało załadowane.
+2025-01-22 19:55:32 INFO  - Symulacja została załadowana.
+2025-01-22 19:58:49 INFO  - Menu zostało załadowane.
+2025-01-22 19:58:51 INFO  - Symulacja została załadowana.
+2025-01-22 19:59:18 INFO  - Menu zostało załadowane.
+2025-01-22 19:59:20 INFO  - Symulacja została załadowana.
+2025-01-22 20:01:48 INFO  - Menu zostało załadowane.
+2025-01-22 20:01:52 INFO  - Symulacja została załadowana.
+2025-01-22 20:03:11 INFO  - Menu zostało załadowane.
+2025-01-22 20:03:14 INFO  - Symulacja została załadowana.
+2025-01-22 20:05:10 INFO  - Menu zostało załadowane.
+2025-01-22 20:05:12 INFO  - Symulacja została załadowana.
+2025-01-22 20:06:11 INFO  - Menu zostało załadowane.
+2025-01-22 20:06:14 INFO  - Symulacja została załadowana.
+2025-01-22 20:07:40 INFO  - Menu zostało załadowane.
+2025-01-22 20:07:42 INFO  - Symulacja została załadowana.
+2025-01-22 20:08:23 INFO  - Menu zostało załadowane.
+2025-01-22 20:08:27 INFO  - Symulacja została załadowana.
+2025-01-22 20:10:55 INFO  - Menu zostało załadowane.
+2025-01-22 20:10:58 INFO  - Symulacja została załadowana.
+2025-01-22 20:11:32 INFO  - Menu zostało załadowane.
+2025-01-22 20:11:35 INFO  - Symulacja została załadowana.
+2025-01-22 20:13:01 INFO  - Menu zostało załadowane.
+2025-01-22 20:13:04 INFO  - Symulacja została załadowana.
+2025-01-22 20:14:39 INFO  - Menu zostało załadowane.
+2025-01-22 20:14:42 INFO  - Symulacja została załadowana.
+2025-01-22 20:21:16 INFO  - Menu zostało załadowane.
+2025-01-22 20:21:18 INFO  - Symulacja została załadowana.
+2025-01-22 20:21:52 INFO  - Menu zostało załadowane.
+2025-01-22 20:21:54 INFO  - Symulacja została załadowana.
+2025-01-22 20:22:10 INFO  - Menu zostało załadowane.
+2025-01-22 20:22:13 INFO  - Symulacja została załadowana.
+2025-01-22 20:22:58 INFO  - Menu zostało załadowane.
+2025-01-22 20:23:00 INFO  - Symulacja została załadowana.
+2025-01-22 20:29:15 INFO  - Menu zostało załadowane.
+2025-01-22 20:29:17 INFO  - Symulacja została załadowana.
+2025-01-22 20:30:45 INFO  - Menu zostało załadowane.
+2025-01-22 20:30:48 INFO  - Symulacja została załadowana.
+2025-01-22 20:31:56 INFO  - Menu zostało załadowane.
+2025-01-22 20:31:58 INFO  - Symulacja została załadowana.
+2025-01-22 20:32:41 INFO  - Menu zostało załadowane.
+2025-01-22 20:32:47 INFO  - Language changed.
+2025-01-22 20:32:51 INFO  - The simulation was loaded.
+2025-01-22 20:33:10 INFO  - Menu zostało załadowane.
+2025-01-22 20:33:17 INFO  - Symulacja została załadowana.
+2025-01-22 20:33:28 INFO  - Menu zostało załadowane.
+2025-01-22 20:33:35 INFO  - Symulacja została załadowana.
+2025-01-22 20:33:48 INFO  - Menu zostało załadowane.
+2025-01-22 20:33:54 INFO  - Language changed.
+2025-01-22 20:33:58 INFO  - The simulation was loaded.
+2025-01-22 20:36:13 INFO  - Menu zostało załadowane.
+2025-01-22 20:36:16 INFO  - Symulacja została załadowana.
+2025-01-22 20:38:00 INFO  - Menu zostało załadowane.
+2025-01-22 20:38:02 INFO  - Symulacja została załadowana.
+2025-01-22 20:38:42 INFO  - Menu zostało załadowane.
+2025-01-22 20:38:45 INFO  - Symulacja została załadowana.
+2025-01-22 20:39:37 INFO  - Menu zostało załadowane.
+2025-01-22 20:39:40 INFO  - Symulacja została załadowana.
+2025-01-22 20:40:08 INFO  - Menu zostało załadowane.
+2025-01-22 20:40:14 INFO  - Symulacja została załadowana.
+2025-01-22 20:41:18 INFO  - Menu zostało załadowane.
+2025-01-22 20:41:22 INFO  - Symulacja została załadowana.
+2025-01-22 20:42:15 INFO  - Menu zostało załadowane.
+2025-01-22 20:42:51 INFO  - Menu zostało załadowane.
+2025-01-22 20:42:54 INFO  - Symulacja została załadowana.
+2025-01-22 20:43:12 INFO  - Menu zostało załadowane.
+2025-01-22 20:43:16 INFO  - Symulacja została załadowana.
+2025-01-22 20:43:56 INFO  - Menu zostało załadowane.
+2025-01-22 20:44:00 INFO  - Symulacja została załadowana.
+2025-01-22 20:51:38 INFO  - Menu zostało załadowane.
+2025-01-22 20:51:41 INFO  - Symulacja została załadowana.
+2025-01-22 21:02:18 INFO  - Menu zostało załadowane.
+2025-01-22 21:02:20 INFO  - Symulacja została załadowana.
+2025-01-22 21:03:07 INFO  - Menu zostało załadowane.
+2025-01-22 21:03:10 INFO  - Symulacja została załadowana.
+2025-01-22 21:03:28 INFO  - Menu zostało załadowane.
+2025-01-22 21:03:30 INFO  - Symulacja została załadowana.
+2025-01-22 21:03:56 INFO  - Menu zostało załadowane.
+2025-01-22 21:03:58 INFO  - Symulacja została załadowana.
+2025-01-22 21:12:31 INFO  - Menu zostało załadowane.
+2025-01-22 21:12:47 INFO  - Symulacja została załadowana.
+2025-01-22 21:18:46 INFO  - Menu zostało załadowane.
+2025-01-22 21:18:52 INFO  - Symulacja została załadowana.
+2025-01-22 21:21:10 INFO  - Menu zostało załadowane.
+2025-01-22 21:21:14 INFO  - Symulacja została załadowana.
+2025-01-22 21:21:35 INFO  - Menu zostało załadowane.
+2025-01-22 21:21:37 INFO  - Symulacja została załadowana.
+2025-01-22 21:34:43 INFO  - Menu zostało załadowane.
+2025-01-22 21:34:45 INFO  - Symulacja została załadowana.
+2025-01-22 21:52:13 INFO  - Menu zostało załadowane.
+2025-01-22 21:52:15 INFO  - Symulacja została załadowana.
+2025-01-22 22:02:03 INFO  - Menu zostało załadowane.
+2025-01-22 22:02:05 INFO  - Symulacja została załadowana.
+2025-01-22 22:06:08 INFO  - Menu zostało załadowane.
+2025-01-22 22:06:11 INFO  - Symulacja została załadowana.
+2025-01-22 22:40:19 INFO  - Menu zostało załadowane.
+2025-01-22 22:40:24 INFO  - Language changed.
+2025-01-22 22:40:26 INFO  - The simulation was loaded.
+2025-01-22 23:10:08 INFO  - Menu zostało załadowane.
+2025-01-22 23:10:10 ERROR - Błąd załadowania sceny.
+2025-01-22 23:33:34 INFO  - Menu zostało załadowane.
+2025-01-22 23:33:36 ERROR - Błąd załadowania sceny.
+2025-01-22 23:40:50 INFO  - Menu zostało załadowane.
+2025-01-22 23:40:51 ERROR - Błąd załadowania sceny.
+2025-01-22 23:42:00 ERROR - Błąd załadowania sceny.
+2025-01-22 23:42:01 ERROR - Błąd załadowania sceny.
+2025-01-22 23:51:34 INFO  - Menu zostało załadowane.
+2025-01-22 23:51:36 ERROR - Błąd załadowania sceny.
+2025-01-22 23:55:09 INFO  - Menu zostało załadowane.
+2025-01-22 23:55:11 ERROR - Błąd załadowania sceny.
+2025-01-23 00:00:14 INFO  - Menu zostało załadowane.
+2025-01-23 00:00:16 ERROR - Błąd załadowania sceny.
+2025-01-23 00:03:16 INFO  - Menu zostało załadowane.
+2025-01-23 00:03:18 ERROR - Błąd załadowania sceny.
+2025-01-23 00:21:48 INFO  - Menu zostało załadowane.
+2025-01-23 00:21:50 ERROR - Błąd załadowania sceny.
+2025-01-23 00:22:18 INFO  - Menu zostało załadowane.
+2025-01-23 00:22:20 INFO  - Symulacja została załadowana.
+2025-01-23 00:28:06 INFO  - Menu zostało załadowane.
+2025-01-23 00:28:09 INFO  - Symulacja została załadowana.
+2025-01-23 00:28:47 INFO  - Menu zostało załadowane.
+2025-01-23 00:28:53 INFO  - Symulacja została załadowana.
+2025-01-23 00:28:55 INFO  - NOT Loading board: ryba
+2025-01-23 00:35:09 INFO  - Menu zostało załadowane.
+2025-01-23 00:35:12 INFO  - Symulacja została załadowana.
+2025-01-23 00:35:14 INFO  - NOT Loading board: ryba
+2025-01-23 00:35:53 INFO  - Menu zostało załadowane.
+2025-01-23 00:35:55 INFO  - Symulacja została załadowana.
+2025-01-23 00:36:19 INFO  - Menu zostało załadowane.
+2025-01-23 00:36:22 INFO  - Symulacja została załadowana.
+2025-01-23 00:36:24 INFO  - NOT Loading board: ryba
+2025-01-23 00:41:23 INFO  - Menu zostało załadowane.
+2025-01-23 00:41:25 INFO  - Symulacja została załadowana.
+2025-01-23 00:41:33 INFO  - NOT Loading board: ryba
+2025-01-23 00:41:35 INFO  - NOT Loading board: clouds
+2025-01-23 00:44:15 INFO  - Menu zostało załadowane.
+2025-01-23 00:44:17 INFO  - Symulacja została załadowana.
+2025-01-23 00:44:19 INFO  - NOT Loading board: ryba
+2025-01-23 00:51:35 INFO  - Menu zostało załadowane.
+2025-01-23 00:51:47 INFO  - Symulacja została załadowana.
+2025-01-23 00:51:49 INFO  - NOT Loading board: clouds
+2025-01-23 00:52:51 INFO  - Menu zostało załadowane.
+2025-01-23 00:52:53 INFO  - Symulacja została załadowana.
+2025-01-23 00:52:54 INFO  - NOT Loading board: ryba
+2025-01-23 00:52:56 INFO  - NOT Loading board: clouds
+2025-01-23 00:53:00 INFO  - NOT Loading board: ryba
+2025-01-23 00:56:53 INFO  - Menu zostało załadowane.
+2025-01-23 00:56:56 INFO  - Symulacja została załadowana.
+2025-01-23 00:56:58 INFO  - IF PRZED NAMI
+2025-01-23 00:56:58 INFO  - IF PRZESZEDL
+2025-01-23 00:56:58 INFO  - NOT Loading board: clouds
+2025-01-23 00:57:45 INFO  - Menu zostało załadowane.
+2025-01-23 00:57:47 INFO  - Symulacja została załadowana.
+2025-01-23 00:57:48 INFO  - set PRZESZEDL
+2025-01-23 00:57:48 INFO  - NOT Loading board: clouds
+2025-01-23 00:58:25 INFO  - Menu zostało załadowane.
+2025-01-23 00:58:27 INFO  - Symulacja została załadowana.
+2025-01-23 00:58:29 INFO  - NOT Loading board: clouds
+2025-01-23 01:06:10 INFO  - Menu zostało załadowane.
+2025-01-23 01:06:13 INFO  - Symulacja została załadowana.
+2025-01-23 01:06:15 INFO  - START
+2025-01-23 01:06:15 INFO  - PRZED RESULTSET
+2025-01-23 01:06:15 INFO  - PO RESULTSET
+2025-01-23 01:06:15 INFO  - NOT Loading board: clouds
+2025-01-23 01:06:19 INFO  - START
+2025-01-23 01:06:19 INFO  - PRZED RESULTSET
+2025-01-23 01:06:19 INFO  - PO RESULTSET
+2025-01-23 01:06:19 INFO  - NOT Loading board: ryba
+2025-01-23 01:06:21 INFO  - START
+2025-01-23 01:06:21 INFO  - PRZED RESULTSET
+2025-01-23 01:06:21 INFO  - PO RESULTSET
+2025-01-23 01:06:21 INFO  - NOT Loading board: clouds
+2025-01-23 01:06:47 INFO  - START
+2025-01-23 01:06:47 INFO  - PRZED RESULTSET
+2025-01-23 01:06:47 INFO  - PO RESULTSET
+2025-01-23 01:06:47 INFO  - NOT Loading board: ryba
+2025-01-23 01:06:50 INFO  - START
+2025-01-23 01:06:50 INFO  - PRZED RESULTSET
+2025-01-23 01:06:50 INFO  - PO RESULTSET
+2025-01-23 01:06:50 INFO  - NOT Loading board: clouds
+2025-01-23 01:07:56 INFO  - START
+2025-01-23 01:07:56 INFO  - PRZED RESULTSET
+2025-01-23 01:07:56 INFO  - PO RESULTSET
+2025-01-23 01:07:56 INFO  - NOT Loading board: clouds
+2025-01-23 01:07:58 INFO  - START
+2025-01-23 01:07:58 INFO  - PRZED RESULTSET
+2025-01-23 01:07:58 INFO  - PO RESULTSET
+2025-01-23 01:07:58 INFO  - NOT Loading board: ryba
+2025-01-23 01:08:02 INFO  - START
+2025-01-23 01:08:02 INFO  - PRZED RESULTSET
+2025-01-23 01:08:02 INFO  - PO RESULTSET
+2025-01-23 01:08:02 INFO  - NOT Loading board: oo
+2025-01-23 01:08:04 INFO  - START
+2025-01-23 01:08:04 INFO  - PRZED RESULTSET
+2025-01-23 01:08:04 INFO  - PO RESULTSET
+2025-01-23 01:08:04 INFO  - NOT Loading board: ryba
+2025-01-23 01:08:09 INFO  - START
+2025-01-23 01:08:09 INFO  - PRZED RESULTSET
+2025-01-23 01:08:09 INFO  - PO RESULTSET
+2025-01-23 01:08:09 INFO  - NOT Loading board: clouds
+2025-01-23 01:08:47 INFO  - START
+2025-01-23 01:08:47 INFO  - PRZED RESULTSET
+2025-01-23 01:08:47 INFO  - PO RESULTSET
+2025-01-23 01:08:47 INFO  - NOT Loading board: ryba
+2025-01-23 01:09:07 INFO  - START
+2025-01-23 01:09:07 INFO  - PRZED RESULTSET
+2025-01-23 01:09:07 INFO  - PO RESULTSET
+2025-01-23 01:09:07 INFO  - NOT Loading board: oo
+2025-01-23 01:09:10 INFO  - START
+2025-01-23 01:09:10 INFO  - PRZED RESULTSET
+2025-01-23 01:09:10 INFO  - PO RESULTSET
+2025-01-23 01:09:10 INFO  - NOT Loading board: clouds
+2025-01-23 01:09:12 INFO  - START
+2025-01-23 01:09:12 INFO  - PRZED RESULTSET
+2025-01-23 01:09:12 INFO  - PO RESULTSET
+2025-01-23 01:09:12 INFO  - NOT Loading board: ryba
+2025-01-23 01:09:13 INFO  - START
+2025-01-23 01:09:13 INFO  - PRZED RESULTSET
+2025-01-23 01:09:13 INFO  - PO RESULTSET
+2025-01-23 01:09:13 INFO  - NOT Loading board: oo
+2025-01-23 01:09:15 INFO  - START
+2025-01-23 01:09:15 INFO  - PRZED RESULTSET
+2025-01-23 01:09:15 INFO  - PO RESULTSET
+2025-01-23 01:09:15 INFO  - NOT Loading board: ryba
+2025-01-23 01:09:16 INFO  - START
+2025-01-23 01:09:16 INFO  - PRZED RESULTSET
+2025-01-23 01:09:16 INFO  - PO RESULTSET
+2025-01-23 01:09:16 INFO  - NOT Loading board: clouds
+2025-01-23 01:09:18 INFO  - START
+2025-01-23 01:09:18 INFO  - PRZED RESULTSET
+2025-01-23 01:09:18 INFO  - PO RESULTSET
+2025-01-23 01:09:18 INFO  - NOT Loading board: oo
+2025-01-23 01:09:32 INFO  - START
+2025-01-23 01:09:32 INFO  - PRZED RESULTSET
+2025-01-23 01:09:32 INFO  - PO RESULTSET
+2025-01-23 01:09:32 INFO  - NOT Loading board: ryba
+2025-01-23 01:09:33 INFO  - START
+2025-01-23 01:09:33 INFO  - PRZED RESULTSET
+2025-01-23 01:09:33 INFO  - PO RESULTSET
+2025-01-23 01:09:33 INFO  - NOT Loading board: clouds
+2025-01-23 01:09:34 INFO  - START
+2025-01-23 01:09:34 INFO  - PRZED RESULTSET
+2025-01-23 01:09:34 INFO  - PO RESULTSET
+2025-01-23 01:09:34 INFO  - NOT Loading board: oo
+2025-01-23 01:09:35 INFO  - START
+2025-01-23 01:09:35 INFO  - PRZED RESULTSET
+2025-01-23 01:09:35 INFO  - PO RESULTSET
+2025-01-23 01:09:35 INFO  - NOT Loading board: clouds
+2025-01-23 01:12:52 INFO  - Menu zostało załadowane.
+2025-01-23 01:12:55 INFO  - Symulacja została załadowana.
+2025-01-23 01:12:57 INFO  - START
+2025-01-23 01:12:57 INFO  - PRZED RESULTSET
+2025-01-23 01:12:57 INFO  - PO RESULTSET
+2025-01-23 01:12:57 INFO  - NOT Loading board: oo
+2025-01-23 01:13:03 INFO  - START
+2025-01-23 01:13:03 INFO  - PRZED RESULTSET
+2025-01-23 01:13:03 INFO  - PO RESULTSET
+2025-01-23 01:13:03 INFO  - NOT Loading board: ryba
+2025-01-23 01:17:20 INFO  - Menu zostało załadowane.
+2025-01-23 01:17:23 INFO  - Symulacja została załadowana.
+2025-01-23 01:17:25 INFO  - Selected board name: ryba
+2025-01-23 01:17:25 INFO  - START
+2025-01-23 01:17:25 INFO  - PRZED RESULTSET
+2025-01-23 01:17:25 INFO  - PO RESULTSET
+2025-01-23 01:17:25 INFO  - NOT Loading board: ryba
+2025-01-23 01:18:27 INFO  - Menu zostało załadowane.
+2025-01-23 01:18:29 INFO  - Symulacja została załadowana.
+2025-01-23 01:18:31 INFO  - START
+2025-01-23 01:18:31 INFO  - PRZED RESULTSET
+2025-01-23 01:18:31 INFO  - PO RESULTSET
+2025-01-23 01:18:31 INFO  - NOT Loading board: ryba
+2025-01-23 01:19:09 INFO  - Menu zostało załadowane.
+2025-01-23 01:19:14 INFO  - Symulacja została załadowana.
+2025-01-23 01:19:16 INFO  - START
+2025-01-23 01:19:16 INFO  - PRZED RESULTSET
+2025-01-23 01:19:16 INFO  - PO RESULTSET
+2025-01-23 01:19:16 INFO  - NOT Loading board: ryba
+2025-01-23 01:24:49 INFO  - Menu zostało załadowane.
+2025-01-23 01:26:31 INFO  - Menu zostało załadowane.
+2025-01-23 01:26:35 INFO  - Symulacja została załadowana.
+2025-01-23 01:26:38 INFO  - START
+2025-01-23 01:26:38 INFO  - PRZED RESULTSET
+2025-01-23 01:26:38 INFO  - PO RESULTSET
+2025-01-23 01:26:38 INFO  - NOT Loading board: ryba
+2025-01-23 01:29:22 INFO  - Menu zostało załadowane.
+2025-01-23 01:29:24 INFO  - Symulacja została załadowana.
+2025-01-23 01:29:25 INFO  - getCellsByBoard
+2025-01-23 01:29:25 INFO  - PETLA
+2025-01-23 01:29:25 INFO  - NOT Loading board: ryba
+2025-01-23 01:33:55 INFO  - Menu zostało załadowane.
+2025-01-23 01:33:58 INFO  - Symulacja została załadowana.
+2025-01-23 01:34:02 INFO  - getCellsByBoard
+2025-01-23 01:34:02 INFO  - rowId
+2025-01-23 01:34:02 INFO  - columnId
+2025-01-23 01:34:02 INFO  - value
+2025-01-23 01:34:02 INFO  - NOT Loading board: oo
+2025-01-23 01:42:28 INFO  - Menu zostało załadowane.
+2025-01-23 01:42:31 INFO  - Symulacja została załadowana.
+2025-01-23 01:42:32 INFO  - getCellsByBoard
+2025-01-23 01:42:32 INFO  - NOT Loading board: oo
+2025-01-23 01:43:35 INFO  - getCellsByBoard
+2025-01-23 01:43:35 INFO  - NOT Loading board: clouds
+2025-01-23 01:43:37 INFO  - getCellsByBoard
+2025-01-23 01:43:37 INFO  - NOT Loading board: dd
+2025-01-23 01:43:38 INFO  - getCellsByBoard
+2025-01-23 01:43:38 INFO  - NOT Loading board: ryba
+2025-01-23 01:46:46 INFO  - Menu zostało załadowane.
+2025-01-23 01:46:48 INFO  - Symulacja została załadowana.
+2025-01-23 01:46:51 INFO  - getCellsByBoard
+2025-01-23 01:46:51 INFO  - NOT Loading board: oo
+2025-01-23 01:46:54 INFO  - getCellsByBoard
+2025-01-23 01:46:54 INFO  - NOT Loading board: ryba
+2025-01-23 01:47:39 INFO  - Menu zostało załadowane.
+2025-01-23 01:47:41 INFO  - Symulacja została załadowana.
+2025-01-23 01:47:43 INFO  - getCellsByBoard
+2025-01-23 01:47:43 INFO  - NOT Loading board: ryba
+2025-01-23 01:47:45 INFO  - getCellsByBoard
+2025-01-23 01:47:45 INFO  - NOT Loading board: oo
+2025-01-23 01:47:47 INFO  - getCellsByBoard
+2025-01-23 01:47:47 INFO  - NOT Loading board: ryba
+2025-01-23 01:48:32 INFO  - Menu zostało załadowane.
+2025-01-23 01:48:35 INFO  - Symulacja została załadowana.
+2025-01-23 01:48:37 INFO  - getCellsByBoard
+2025-01-23 01:48:37 INFO  - NOT Loading board: clouds
+2025-01-23 01:49:42 INFO  - Menu zostało załadowane.
+2025-01-23 01:51:36 INFO  - Menu zostało załadowane.
+2025-01-23 01:51:39 INFO  - Symulacja została załadowana.
+2025-01-23 01:51:41 INFO  - rowId=-1, columnId=-1, rows=8, columns=12
+2025-01-23 01:51:41 INFO  - rowId=-1, columnId=-1, value=false, rows=8, columns=12
+2025-01-23 01:51:41 INFO  - NOT Loading board: ryba
+2025-01-23 01:53:16 INFO  - Menu zostało załadowane.
+2025-01-23 01:53:18 INFO  - Symulacja została załadowana.
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=0, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=0, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=1, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=1, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=2, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=2, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=3, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=3, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=4, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=4, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=5, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=5, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=6, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=6, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=7, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=7, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=8, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=8, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=9, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=9, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=10, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=10, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=11, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=0, columnId=11, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=1, columnId=0, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=1, columnId=0, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=1, columnId=1, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=1, columnId=1, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:19 INFO  - rowId=1, columnId=2, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - rowId=1, columnId=2, value=false, rows=8, columns=12
+2025-01-23 01:53:19 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=3, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=3, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=4, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=4, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=5, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=5, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=6, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=6, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=7, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=7, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=8, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=8, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=9, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=9, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=10, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=10, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=11, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=1, columnId=11, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=0, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=0, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=1, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=1, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=2, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=2, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=3, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=3, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=4, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=4, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=5, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=5, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=6, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=6, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=7, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=7, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=8, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=8, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=9, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=9, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=10, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=10, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=11, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=2, columnId=11, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=0, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=0, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=1, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=1, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=2, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=2, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=3, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=3, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=4, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=4, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=5, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=5, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=6, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=6, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=7, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=7, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=8, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=8, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=9, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=9, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=10, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=10, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=11, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=3, columnId=11, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=0, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=0, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=1, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=1, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=2, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=2, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=3, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=3, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=4, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=4, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=5, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=5, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=6, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=6, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=7, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=7, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=8, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=8, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=9, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=9, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=10, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=10, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=11, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=4, columnId=11, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=0, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=0, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=1, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=1, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=2, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=2, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=3, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=3, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=4, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=4, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=5, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=5, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=6, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=6, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=7, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=7, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=8, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=8, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=9, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=9, value=true, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=10, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=10, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=11, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=5, columnId=11, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=0, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=0, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=1, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=1, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=2, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=2, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=3, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=3, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=4, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=4, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=5, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=5, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=6, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=6, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=7, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=7, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=8, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=8, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=9, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=9, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=10, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=10, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=11, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=6, columnId=11, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=0, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=0, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=1, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=1, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=2, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=2, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=3, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=3, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=4, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=4, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=5, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=5, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=6, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=6, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=7, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=7, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=8, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=8, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=9, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=9, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=10, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=10, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=11, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - rowId=7, columnId=11, value=false, rows=8, columns=12
+2025-01-23 01:53:20 INFO  - KONEIC PETLI
+2025-01-23 01:53:20 INFO  - Loading board: ryba
+2025-01-23 01:56:17 INFO  - Menu zostało załadowane.
+2025-01-23 01:56:21 INFO  - Symulacja została załadowana.
+2025-01-23 01:56:24 INFO  - PRZED CONNECTION
+2025-01-23 01:56:24 INFO  - PO CONNECTION
+2025-01-23 01:56:24 INFO  - Loading board: ryba
+2025-01-23 01:56:31 INFO  - PRZED CONNECTION
+2025-01-23 01:56:31 INFO  - PO CONNECTION
+2025-01-23 01:56:31 INFO  - Loading board: oo
+2025-01-23 01:56:32 INFO  - PRZED CONNECTION
+2025-01-23 01:56:32 INFO  - PO CONNECTION
+2025-01-23 01:56:32 INFO  - Loading board: clouds
+2025-01-23 01:56:35 INFO  - PRZED CONNECTION
+2025-01-23 01:56:35 INFO  - PO CONNECTION
+2025-01-23 01:56:35 INFO  - Loading board: oo
+2025-01-23 01:56:37 INFO  - PRZED CONNECTION
+2025-01-23 01:56:37 INFO  - PO CONNECTION
+2025-01-23 01:56:37 INFO  - Loading board: dd
+2025-01-23 03:51:37 INFO  - Menu zostało załadowane.
+2025-01-23 03:51:42 INFO  - Language changed.
+2025-01-23 03:51:48 INFO  - The simulation was loaded.
+2025-01-23 03:52:32 INFO  - Menu zostało załadowane.
+2025-01-23 03:52:34 INFO  - Language changed.
+2025-01-23 04:37:54 INFO  - Menu zostało załadowane.
+2025-01-23 04:38:00 INFO  - Language changed.
+2025-01-23 04:38:05 INFO  - The simulation was loaded.
+2025-01-23 04:39:26 INFO  - Menu zostało załadowane.
+2025-01-23 04:39:41 INFO  - Symulacja została załadowana.
+2025-01-23 04:42:49 INFO  - Menu zostało załadowane.
+2025-01-23 04:43:00 INFO  - Symulacja została załadowana.
+2025-01-23 04:54:00 INFO  - Menu zostało załadowane.
+2025-01-23 04:54:10 INFO  - Symulacja została załadowana.
+2025-01-23 05:08:23 INFO  - Menu zostało załadowane.
+2025-01-23 05:08:32 INFO  - Symulacja została załadowana.
+2025-01-23 05:08:59 INFO  - Menu zostało załadowane.
+2025-01-23 05:09:02 INFO  - Symulacja została załadowana.
+2025-01-23 05:10:36 INFO  - Menu zostało załadowane.
+2025-01-23 05:10:43 INFO  - Symulacja została załadowana.
+2025-01-23 05:18:08 INFO  - Menu zostało załadowane.
+2025-01-23 05:18:11 INFO  - Symulacja została załadowana.
+2025-01-23 05:20:55 INFO  - Menu zostało załadowane.
+2025-01-23 05:20:58 INFO  - Symulacja została załadowana.
+2025-01-23 05:29:45 INFO  - Menu zostało załadowane.
+2025-01-23 05:29:49 INFO  - Symulacja została załadowana.
+2025-01-23 05:36:43 INFO  - Menu zostało załadowane.
+2025-01-23 05:36:46 INFO  - Symulacja została załadowana.
+2025-01-23 05:39:22 INFO  - Menu zostało załadowane.
+2025-01-23 05:39:25 INFO  - Symulacja została załadowana.
+2025-01-23 05:47:57 INFO  - Menu zostało załadowane.
+2025-01-23 05:47:59 INFO  - Symulacja została załadowana.
+2025-01-23 05:52:31 INFO  - Menu zostało załadowane.
+2025-01-23 05:52:43 INFO  - Menu zostało załadowane.
+2025-01-23 05:52:53 INFO  - Symulacja została załadowana.
+2025-01-23 05:53:14 INFO  - Symulacja została załadowana.
+2025-01-23 05:53:39 INFO  - Menu zostało załadowane.
+2025-01-23 05:53:41 INFO  - Symulacja została załadowana.
+2025-01-23 06:03:54 INFO  - Menu zostało załadowane.
+2025-01-23 06:03:58 INFO  - Language changed.
+2025-01-23 06:04:12 INFO  - The simulation was loaded.
+2025-01-23 06:05:03 INFO  - Menu zostało załadowane.
+2025-01-23 06:05:07 INFO  - Language changed.
+2025-01-23 06:05:12 INFO  - The simulation was loaded.
+2025-01-23 06:08:22 INFO  - Menu zostało załadowane.
+2025-01-23 06:08:27 INFO  - Language changed.
+2025-01-23 06:08:32 INFO  - The simulation was loaded.
+2025-01-23 06:08:51 INFO  - Menu zostało załadowane.
+2025-01-23 06:08:59 INFO  - Language changed.
+2025-01-23 06:09:06 INFO  - The simulation was loaded.
+2025-01-23 06:11:05 INFO  - Menu zostało załadowane.
+2025-01-23 06:11:17 INFO  - Language changed.
+2025-01-23 06:11:23 INFO  - The simulation was loaded.
+2025-01-23 06:12:34 INFO  - Menu zostało załadowane.
+2025-01-23 06:12:38 INFO  - Language changed.
+2025-01-23 06:12:46 INFO  - The simulation was loaded.
+2025-01-23 06:18:33 INFO  - Menu zostało załadowane.
+2025-01-23 06:18:36 INFO  - Symulacja została załadowana.
+2025-01-23 06:18:49 INFO  - Menu zostało załadowane.
+2025-01-23 06:18:58 INFO  - Symulacja została załadowana.
+2025-01-23 06:19:13 INFO  - Menu zostało załadowane.
+2025-01-23 06:19:17 INFO  - Language changed.
+2025-01-23 06:19:24 INFO  - The simulation was loaded.
+2025-01-23 06:20:55 INFO  - Menu zostało załadowane.
+2025-01-23 06:21:00 INFO  - Language changed.
+2025-01-23 06:21:06 INFO  - The simulation was loaded.
+2025-01-23 06:22:12 INFO  - Menu zostało załadowane.
+2025-01-23 06:22:24 INFO  - Symulacja została załadowana.
+2025-01-23 06:26:57 INFO  - Menu zostało załadowane.
+2025-01-23 06:27:00 INFO  - Language changed.
+2025-01-23 06:27:04 INFO  - The simulation was loaded.
+2025-01-23 06:28:52 INFO  - Menu zostało załadowane.
+2025-01-23 06:28:59 INFO  - Language changed.
+2025-01-23 06:29:06 INFO  - The simulation was loaded.
+2025-01-23 06:29:19 INFO  - Menu zostało załadowane.
+2025-01-23 06:29:23 INFO  - Language changed.
+2025-01-23 06:29:27 INFO  - The simulation was loaded.
+2025-01-23 06:30:05 INFO  - Menu zostało załadowane.
+2025-01-23 06:30:09 INFO  - Language changed.
+2025-01-23 06:30:25 INFO  - Język został zmieniony.
+2025-01-23 06:30:56 INFO  - Language changed.
+2025-01-23 06:30:57 INFO  - Język został zmieniony.
+2025-01-23 06:31:03 INFO  - Symulacja została załadowana.
+2025-01-23 06:31:33 INFO  - Menu zostało załadowane.
+2025-01-23 06:31:38 INFO  - Language changed.
+2025-01-23 06:31:39 INFO  - Język został zmieniony.
+2025-01-23 06:31:44 INFO  - Symulacja została załadowana.
+2025-01-23 06:44:56 INFO  - Menu zostało załadowane.
+2025-01-23 06:44:59 INFO  - Language changed.
+2025-01-23 06:45:03 INFO  - The simulation was loaded.
+2025-01-23 06:46:36 INFO  - Menu zostało załadowane.
+2025-01-23 06:46:39 INFO  - Language changed.
+2025-01-23 06:46:41 INFO  - Menu zostało załadowane.
+2025-01-23 06:46:51 INFO  - The simulation was loaded.
+2025-01-23 06:47:07 INFO  - Language changed.
+2025-01-23 06:47:18 INFO  - The simulation was loaded.
+2025-01-23 06:50:27 INFO  - Menu zostało załadowane.
+2025-01-23 06:51:15 INFO  - Menu zostało załadowane.
+2025-01-23 06:51:18 INFO  - Language changed.
+2025-01-23 06:51:26 INFO  - The simulation was loaded.
+2025-01-23 06:53:13 INFO  - Menu zostało załadowane.
+2025-01-23 06:53:15 INFO  - Language changed.
+2025-01-23 06:53:27 INFO  - The simulation was loaded.
+2025-01-23 06:55:56 INFO  - Menu zostało załadowane.
+2025-01-23 06:55:58 INFO  - Language changed.
+2025-01-23 06:56:04 INFO  - 8
+2025-01-23 06:56:04 INFO  - The simulation was loaded.
+2025-01-23 06:57:37 INFO  - Menu zostało załadowane.
+2025-01-23 06:57:43 INFO  - Language changed.
+2025-01-23 06:57:48 INFO  - 8
+2025-01-23 06:57:48 INFO  - The simulation was loaded.
+2025-01-23 06:58:37 INFO  - Menu zostało załadowane.
+2025-01-23 06:58:40 INFO  - Language changed.
+2025-01-23 06:58:45 INFO  - 8
+2025-01-23 06:58:45 INFO  - The simulation was loaded.
+2025-01-23 07:00:58 INFO  - Menu zostało załadowane.
+2025-01-23 07:01:14 INFO  - Language changed.
+2025-01-23 07:01:26 INFO  - The simulation was loaded.
+2025-01-23 07:01:49 INFO  - Menu zostało załadowane.
+2025-01-23 07:01:51 INFO  - Language changed.
+2025-01-23 07:02:00 INFO  - The simulation was loaded.
+2025-01-23 07:03:10 INFO  - Menu zostało załadowane.
+2025-01-23 07:03:14 INFO  - Language changed.
+2025-01-23 07:03:21 INFO  - 8
+2025-01-23 07:03:21 INFO  - The simulation was loaded.
+2025-01-23 07:05:33 INFO  - Menu zostało załadowane.
+2025-01-23 07:05:37 INFO  - Language changed.
+2025-01-23 07:05:43 INFO  - 8
+2025-01-23 07:05:43 INFO  - The simulation was loaded.
+2025-01-23 07:09:46 INFO  - Menu zostało załadowane.
+2025-01-23 07:09:48 INFO  - Language changed.
+2025-01-23 07:09:53 INFO  - 8
+2025-01-23 07:09:53 INFO  - The simulation was loaded.
+2025-01-23 07:11:03 INFO  - Menu zostało załadowane.
+2025-01-23 07:11:14 INFO  - Language changed.
+2025-01-23 07:11:16 INFO  - 12
+2025-01-23 07:11:16 INFO  - The simulation was loaded.
+2025-01-23 07:11:34 INFO  - Menu zostało załadowane.
+2025-01-23 07:11:37 INFO  - Language changed.
+2025-01-23 07:11:42 INFO  - 8
+2025-01-23 07:11:42 INFO  - The simulation was loaded.
+2025-01-23 07:11:54 INFO  - Menu zostało załadowane.
+2025-01-23 07:12:07 INFO  - 12
+2025-01-23 07:12:07 INFO  - Symulacja została załadowana.
+2025-01-23 07:12:19 INFO  - Menu zostało załadowane.
+2025-01-23 07:12:31 INFO  - Language changed.
+2025-01-23 07:12:32 INFO  - 12
+2025-01-23 07:12:32 INFO  - The simulation was loaded.
+2025-01-23 07:12:47 INFO  - Menu zostało załadowane.
+2025-01-23 07:12:56 INFO  - Language changed.
+2025-01-23 07:12:57 INFO  - 18
+2025-01-23 07:12:58 INFO  - The simulation was loaded.
+2025-01-23 07:13:09 INFO  - Menu zostało załadowane.
+2025-01-23 07:13:14 INFO  - Language changed.
+2025-01-23 07:13:20 INFO  - 8
+2025-01-23 07:13:20 INFO  - The simulation was loaded.
+2025-01-23 07:16:09 INFO  - Menu zostało załadowane.
+2025-01-23 07:16:17 INFO  - Language changed.
+2025-01-23 07:16:24 INFO  - 8
+2025-01-23 07:16:24 INFO  - The simulation was loaded.
+2025-01-23 07:18:09 INFO  - Menu zostało załadowane.
+2025-01-23 07:18:24 INFO  - Menu zostało załadowane.
+2025-01-23 07:18:34 INFO  - Language changed.
+2025-01-23 07:18:54 INFO  - 8
+2025-01-23 07:18:55 INFO  - The simulation was loaded.
+2025-01-23 07:21:33 INFO  - Menu zostało załadowane.
+2025-01-23 07:21:37 INFO  - Language changed.
+2025-01-23 07:21:38 INFO  - Język został zmieniony.
+2025-01-23 07:21:44 INFO  - Language changed.
+2025-01-23 07:21:45 INFO  - 8
+2025-01-23 07:21:45 INFO  - The simulation was loaded.
+2025-01-26 16:57:38 INFO  - Menu zostało załadowane.
+2025-01-26 16:57:52 ERROR - Błąd załadowania sceny.
+2025-01-26 16:57:54 ERROR - Błąd załadowania sceny.
+2025-01-26 16:57:55 ERROR - Błąd załadowania sceny.
+2025-01-26 16:58:08 ERROR - Błąd załadowania sceny.
+2025-01-26 16:58:09 ERROR - Błąd załadowania sceny.
+2025-01-26 16:58:10 ERROR - Błąd załadowania sceny.
+2025-01-26 16:58:10 ERROR - Błąd załadowania sceny.
+2025-01-26 16:58:10 ERROR - Błąd załadowania sceny.
+2025-01-26 16:59:13 INFO  - Menu zostało załadowane.
+2025-01-26 16:59:27 INFO  - Language changed.
+2025-01-26 16:59:32 ERROR - Error with loading scene
+2025-01-26 17:00:13 INFO  - Menu zostało załadowane.
+2025-01-26 17:00:16 INFO  - Symulacja została załadowana.
+2025-01-26 17:03:39 INFO  - Menu zostało załadowane.
+2025-01-26 17:03:59 INFO  - Symulacja została załadowana.

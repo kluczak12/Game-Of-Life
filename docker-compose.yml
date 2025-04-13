@@ -1,0 +1,26 @@
+# psql --dbname=nbddb --username=nbd
+
+services:
+  pgadmin:
+    image: dpage/pgadmin4:8.12
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "z6@gmail.com"
+      PGADMIN_DEFAULT_PASSWORD: "12"
+    ports:
+      - "80:80"
+    volumes:
+      - pgadmin:/var/lib/pgadmin
+  db:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_DB: BoardBase
+      POSTGRES_USER: z6
+      POSTGRES_PASSWORD: 21
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg:/var/lib/postgresql/data
+volumes:
+  pg:
+  pgadmin:
